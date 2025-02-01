@@ -14,7 +14,7 @@ I'm a computer science student with a passion for Frontend Development. I love e
 
 ## Projects
 
-- [BetterDays](https://depression-test-fawn.vercel.app/) - Better Days is your trusted companion on the path to mental wellness. Our platform offers a quick self-assessment to help you understand your emotional state With practical tips and compassionate resources, Better Days supports you in taking the first step toward a brighter, healthier tomorrow.
+- [BetterDays](https://betterdayshealth.vercel.app/) - Better Days is your trusted companion on the path to mental wellness. Our platform offers a quick self-assessment to help you understand your emotional state With practical tips and compassionate resources, Better Days supports you in taking the first step toward a brighter, healthier tomorrow.
 - Feel free to explore more on my [GitHub repositories](https://github.com/bichitrabehera).
 
 ## Contact
