@@ -5,7 +5,7 @@ Hi, I'm **Bichitea Behera**! Welcome to my personal profile.
 ## Who I Am
 
 I'm a computer science student with a passion for Frontend Development. I love exploring new ideas and collaborating on innovative projects.
-- [Portfolio](https://portfolio-bichitra.vercel.app/)
+- [Portfolio](https://bichitrabehera.vercel.app/)
 
 ## Skills & Technologies
 
