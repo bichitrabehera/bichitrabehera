@@ -21,4 +21,4 @@ I'm a computer science student with a passion for Frontend Development. I love e
 
 If you’d like to connect or have any questions, you can reach me at:
 - **Email:** bichitrabehera.amcec@gmail.com
-- **LinkedIn:** [Bichitra Behera]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/bichitra-behera-99b189291?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
+- **LinkedIn:** [Bichitra Behera](https://www.linkedin.com/in/bichitra-behera-99b189291?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
