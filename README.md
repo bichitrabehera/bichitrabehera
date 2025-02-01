@@ -5,7 +5,7 @@ Hi, I'm **Bichitea Behera**! Welcome to my personal profile.
 ## Who I Am
 
 I'm a computer science student with a passion for Frontend Development. I love exploring new ideas and collaborating on innovative projects.
-- My Portfolio : (https://portfolio-bichitra.vercel.app/)
+- [Portfolio](https://portfolio-bichitra.vercel.app/)
 
 ## Skills & Technologies
 
@@ -14,7 +14,6 @@ I'm a computer science student with a passion for Frontend Development. I love e
 
 ## Projects
 
-Here are a few projects I've worked on:
 - [BetterDays](https://depression-test-fawn.vercel.app/) - Better Days is your trusted companion on the path to mental wellness. Our platform offers a quick self-assessment to help you understand your emotional state With practical tips and compassionate resources, Better Days supports you in taking the first step toward a brighter, healthier tomorrow.
 - Feel free to explore more on my [GitHub repositories](https://github.com/bichitrabehera).
 
